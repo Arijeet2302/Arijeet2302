@@ -21,6 +21,6 @@ I'm open to collaborations and discussions. Feel free to reach out to me on [Lin
 I'm eager to collaborate on exciting web development projects. If you have an interesting project or idea, don't hesitate to get in touch!
 
 ## 📈 GitHub Stats
-[![Arijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=issues&count_private=true)](https://github.com/Arijeet2302)
+[![Arijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arijeet2302&show_icons=true&hide=issues&count_private=true)](https://github.com/Arijeet2302)
 
 Thanks for stopping by! Feel free to explore my repositories and drop a star if you find something interesting. Happy coding! 🚀
