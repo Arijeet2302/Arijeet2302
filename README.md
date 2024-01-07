@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm Arijeet Sinha, and I'm passionate about web de
 I'm on a journey to master Next.js, exploring its capabilities to create efficient and scalable web applications.
 
 ## 💬 Let's Connect!
-I'm open to collaborations and discussions. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arijeet-sinha/) or via email:
+I'm open to collaborations and discussions. Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/arijeet-sinha/](https://www.linkedin.com/in/arijeet-sinha-690117266/)) or via email:
 
-- Email: your.email@gmail.com
+- Email: arijeetsinha2@gmail.com
 
 ## 🤝 I’m Looking to Collaborate On
 I'm eager to collaborate on exciting web development projects. If you have an interesting project or idea, don't hesitate to get in touch!
